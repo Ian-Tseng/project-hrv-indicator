@@ -1,0 +1,20 @@
+
+
+
+<svg>
+  <svg id="container">
+    <rect id="background" class="application-fill" />
+    <use id="statsCyle" href="#cycleview">
+      <use href="#cycleview-item" class="cycle-item">
+        <text id= "text-item-1">Heart rate: 0</text>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <text>Variation: 0</text>
+      </use>
+      
+     
+    </use>
+    <use id="button-1" href="#text-button" class="text-button bottom application-fill" />
+
+  </svg>
+</svg>
